@@ -19,7 +19,7 @@ in
   oneplus-7t = pipeline {
     arch = "arm64";
     anyKernelVariant = "kernelsu";
-    clangVersion = "6";
+    clangVersion = "8";
     enableKernelSU = true;
     kernelDefconfigs = [ "vendor/sm8150-perf_defconfig" ];
     kernelImageName = "Image";
