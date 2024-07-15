@@ -24,6 +24,7 @@ in
     kernelDefconfigs = [ "vendor/sm8150-perf_defconfig" ];
     kernelImageName = "Image";
     kernelSrc = sources.linux-oneplus-7t-lineageos-21.src;
+    kernelPatches = [ ./umount.patch ];
     oemBootImg = ./boot.img;
   };
 }
