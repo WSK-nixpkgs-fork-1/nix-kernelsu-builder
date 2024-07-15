@@ -16,4 +16,14 @@ in
       CONFIG_LTO_CLANG=y
     '';
   };
+  oneplus-7t = pipeline {
+    arch = "arm64";
+    anyKernelVariant = "kernelsu";
+    clangVersion = "latest";
+    enableKernelSU = true;
+    kernelDefconfigs = [ "vendor/sm8150-perf_defconfig" ];
+    kernelImageName = "Image";
+    kernelSrc = sources.linux-oneplus-7t.src;
+    oemBootImg = ./boot.img;
+  };
 }

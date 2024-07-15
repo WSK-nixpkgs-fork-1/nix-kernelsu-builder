@@ -16,9 +16,7 @@ jobs:
       fail-fast: false
       matrix:
         build_target:
-          - amazon-fire-hd-karnak
-          - moto-rtwo-lineageos-21
-          - oneplus-8t-blu-spark
+          - oneplus-7t
     runs-on: ubuntu-latest
     env:
       GIT_SSL_NO_VERIFY: 'true'
