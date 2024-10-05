@@ -162,7 +162,7 @@
     },
     "linux-oneplus-7t-lineageos-21": {
         "cargoLocks": null,
-        "date": "2024-08-25",
+        "date": "2024-10-04",
         "extract": null,
         "name": "linux-oneplus-7t-lineageos-21",
         "passthru": null,
@@ -174,12 +174,12 @@
             "name": null,
             "owner": "LineageOS",
             "repo": "android_kernel_oneplus_sm8150",
-            "rev": "ccf54702ab9da3eab4522db5cd34381ad98ca466",
-            "sha256": "sha256-X/x2payWfAriQoQZduRQtRblX6M/l/OfjseYDXX4Jkk=",
+            "rev": "f09f4110bcc04468f49557d0c91db19eddb79788",
+            "sha256": "sha256-rQsWgIjU5U5nuf3skTLECvgfVStoQ7URcf2PsgwnMZU=",
             "sparseCheckout": [],
             "type": "github"
         },
-        "version": "ccf54702ab9da3eab4522db5cd34381ad98ca466"
+        "version": "f09f4110bcc04468f49557d0c91db19eddb79788"
     },
     "linux-oneplus-8t-blu-spark": {
         "cargoLocks": null,
