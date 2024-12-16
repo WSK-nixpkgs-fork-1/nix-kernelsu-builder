@@ -96,15 +96,15 @@
   };
   linux-oneplus-7t-lineageos-21 = {
     pname = "linux-oneplus-7t-lineageos-21";
-    version = "553ad0541485772cea4203b81dcae6372d038da0";
+    version = "123e95de0025ef73ccddf5c0ad6b180fbb2a7afb";
     src = fetchFromGitHub {
       owner = "LineageOS";
       repo = "android_kernel_oneplus_sm8150";
-      rev = "553ad0541485772cea4203b81dcae6372d038da0";
+      rev = "123e95de0025ef73ccddf5c0ad6b180fbb2a7afb";
       fetchSubmodules = false;
-      sha256 = "sha256-Kla9yvg+niHwlMzHC4hhBaCoJXhGd2jE1esL1PjQ5gM=";
+      sha256 = "sha256-eXj8FvxtnW09RJMF6WKmNjkmN2HfDD9JM9cAce2ymhk=";
     };
-    date = "2024-10-15";
+    date = "2024-12-15";
   };
   linux-oneplus-8t-blu-spark = {
     pname = "linux-oneplus-8t-blu-spark";
