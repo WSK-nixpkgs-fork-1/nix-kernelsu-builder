@@ -1,6 +1,6 @@
 {
     "anykernel-kernelsu": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2025-05-17",
         "extract": null,
         "name": "anykernel-kernelsu",
@@ -21,7 +21,7 @@
         "version": "ac6360f6fc1895cbd218246f12a771f63d0e5e4f"
     },
     "anykernel-osm0sis": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2025-05-18",
         "extract": null,
         "name": "anykernel-osm0sis",
@@ -42,7 +42,7 @@
         "version": "6f88dff82b786e879b255a8e1523547c4f62d031"
     },
     "gcc-aarch64-linux-android": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2020-02-22",
         "extract": null,
         "name": "gcc-aarch64-linux-android",
@@ -63,7 +63,7 @@
         "version": "5797d7f622321e734558bd3372a9ab5ad6e6a48e"
     },
     "gcc-arm-linux-androideabi": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2019-11-25",
         "extract": null,
         "name": "gcc-arm-linux-androideabi",
@@ -84,7 +84,7 @@
         "version": "3ecb542702c2ca0e502533c3f6d02f0f06f584f1"
     },
     "kernelsu-stable": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": null,
         "extract": null,
         "name": "kernelsu-stable",
@@ -104,7 +104,7 @@
         "version": "v0.9.5"
     },
     "kernelsu-stable-revision-code": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": null,
         "extract": null,
         "name": "kernelsu-stable-revision-code",
@@ -119,7 +119,7 @@
         "version": "11872"
     },
     "linux-amazon-karnak": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2023-10-09",
         "extract": null,
         "name": "linux-amazon-karnak",
@@ -140,7 +140,7 @@
         "version": "e22c713c7c4f0c8d08267f6bba98b8c4cde8310f"
     },
     "linux-moto-rtwo-lineageos-21": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2024-02-23",
         "extract": null,
         "name": "linux-moto-rtwo-lineageos-21",
@@ -161,7 +161,7 @@
         "version": "1c2aa53515b7c1d5629a84980470d9c1c2ece4e7"
     },
     "linux-oneplus-7t-lineageos-21": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2024-12-15",
         "extract": null,
         "name": "linux-oneplus-7t-lineageos-21",
@@ -182,7 +182,7 @@
         "version": "123e95de0025ef73ccddf5c0ad6b180fbb2a7afb"
     },
     "linux-oneplus-8t-blu-spark": {
-        "cargoLocks": null,
+        "cargoLock": null,
         "date": "2024-12-26",
         "extract": null,
         "name": "linux-oneplus-8t-blu-spark",
